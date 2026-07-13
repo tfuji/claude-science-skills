@@ -1,4 +1,4 @@
-# Claude Science skills for the NIG supercomputer (DDBJ)
+# Claude Science skills for the NIG supercomputer
 
 Skills that teach [Claude Science](https://www.anthropic.com/) how to run work
 on the **NIG supercomputer** operated by DDBJ at the National Institute of
